@@ -95,3 +95,4 @@ YOLO-8-based license plate detection, combined with OCR text extraction, represe
 
 Future developments, including the integration of advanced OCR models, multi-camera systems, and edge deployment, will continue to enhance the performance and scalability of license plate recognition systems, making them more versatile and cost-effective for real-world applications.
 
+For further assistance feel free to contact support @ilamthedral2002@gmail.com
